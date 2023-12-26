@@ -1,1 +1,1 @@
-web: python -m http.server $PORT
+worker: node index.js
